@@ -1,6 +1,6 @@
 ### Hi there, I'm Diogo Costa (0xCosta) 👋
 
-🎓 **Final-year BSc Student in Cybersecurity & Computer Networks (LSIRC)** at ESTG - UT.Porto  
+🎓 **Final-year BSc Student in Cybersecurity & Computer Networks (LSIRC)** at ESTG - UT.PORTO
 🛡️ Passionate about **Network Security, Ethical Hacking, Cryptography & Full-Stack Development**  
 📍 Based in Portugal  
 
