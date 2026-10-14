@@ -46,3 +46,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=0xCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCosta&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+---
+
+### 🤝 Community & Volunteering
+
+- 🚀 Active member of **NEI (Núcleo de Estudantes de Informática)** — Organizing **Capture The Flag (CTF)** cybersecurity competitions and managing course study repositories for the student community.
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-costa-5034b6374)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xCosta)
